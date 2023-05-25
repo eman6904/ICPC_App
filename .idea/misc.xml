@@ -3,13 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/drawable/border_text.xml" value="0.1835" />
         <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/drawable/circle.xml" value="0.1835" />
         <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/drawable/circular.xml" value="0.119" />
+        <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/drawable/custom_shape.xml" value="0.1835" />
+        <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/drawable/rounded_textview.xml" value="0.1835" />
         <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/drawable/textview_shape.xml" value="0.1835" />
         <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/layout/activity_main.xml" value="0.23854166666666668" />
         <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/layout/fragment_content.xml" value="0.23854166666666668" />
         <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/layout/fragment_face.xml" value="0.10916919959473151" />
         <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/layout/fragment_home.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/layout/fragment_phase.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/layout/phase_model.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/layout/week_model.xml" value="0.23854166666666668" />
       </map>
     </option>
   </component>

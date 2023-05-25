@@ -1,4 +1,4 @@
-package com.example.icpcsohagtraning.ui
+package com.example.icpcsohagtraning.ui.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

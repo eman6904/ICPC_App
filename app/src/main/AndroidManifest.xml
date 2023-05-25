@@ -14,7 +14,7 @@
         android:theme="@style/Theme.ICPCSohagTraning"
         tools:targetApi="31">
         <activity
-            android:name="com.example.icpcsohagtraning.ui.MainActivity"
+            android:name="com.example.icpcsohagtraning.ui.ui.MainActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

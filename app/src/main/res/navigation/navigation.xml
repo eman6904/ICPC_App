@@ -3,21 +3,26 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/navigation"
-    app:startDestination="@id/face">
+    app:startDestination="@id/phase">
 
     <fragment
         android:id="@+id/face"
-        android:name="com.example.icpcsohagtraning.ui.Face"
+        android:name="com.example.icpcsohagtraning.ui.ui.Face"
         android:label="fragment_face"
         tools:layout="@layout/fragment_face" />
     <fragment
         android:id="@+id/home2"
-        android:name="com.example.icpcsohagtraning.ui.Home"
+        android:name="com.example.icpcsohagtraning.ui.ui.Home"
         android:label="fragment_home"
         tools:layout="@layout/fragment_home" />
     <fragment
         android:id="@+id/content2"
-        android:name="com.example.icpcsohagtraning.ui.Content"
+        android:name="com.example.icpcsohagtraning.ui.ui.Content"
         android:label="fragment_content"
         tools:layout="@layout/fragment_content" />
+    <fragment
+        android:id="@+id/phase"
+        android:name="com.example.icpcsohagtraning.ui.ui.Phase"
+        android:label="fragment_phase"
+        tools:layout="@layout/fragment_phase" />
 </navigation>

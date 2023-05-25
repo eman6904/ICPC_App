@@ -1,4 +1,4 @@
-package com.example.icpcsohagtraning.ui
+package com.example.icpcsohagtraning.ui.ui
 
 import android.os.Bundle
 import android.view.View
