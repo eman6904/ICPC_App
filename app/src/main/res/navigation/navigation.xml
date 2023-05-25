@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/face">
+
+    <fragment
+        android:id="@+id/face"
+        android:name="com.example.icpcsohagtraning.ui.Face"
+        android:label="fragment_face"
+        tools:layout="@layout/fragment_face" />
+    <fragment
+        android:id="@+id/home2"
+        android:name="com.example.icpcsohagtraning.ui.Home"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/content2"
+        android:name="com.example.icpcsohagtraning.ui.Content"
+        android:label="fragment_content"
+        tools:layout="@layout/fragment_content" />
+</navigation>
