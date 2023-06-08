@@ -50,7 +50,7 @@
                android:layout_height="@dimen/_40sdp"
                android:background="@drawable/custom_shape"
                android:gravity="center"
-               android:text="How To Start?"
+               android:text="What Is ICPC..?"
                android:textColor="@color/white"
                android:textSize="@dimen/_13sdp"
                android:textStyle="bold"
@@ -59,7 +59,7 @@
 
            <TextView
             android:id="@+id/textView3"
-            android:text="Training Content"
+            android:text="How To Start.."
             android:layout_width="@dimen/_180sdp"
             android:layout_height="@dimen/_40sdp"
                android:gravity="center"
@@ -80,7 +80,7 @@
             android:background="@drawable/custom_shape"
             android:textColor="@color/white"
             android:layout_marginTop="@dimen/_30sdp"
-            android:text="What IS ICPC?" />
+            android:text="Training Content" />
            <TextView
                android:id="@+id/textView7"
                android:layout_width="@dimen/_180sdp"
@@ -105,7 +105,7 @@
             android:background="@drawable/custom_shape"
             android:textColor="@color/white"
             android:layout_marginTop="@dimen/_30sdp"
-            android:text="Do Not Stop.." />
+            android:text="Achievements" />
 
        </LinearLayout>
     </com.google.android.material.card.MaterialCardView>

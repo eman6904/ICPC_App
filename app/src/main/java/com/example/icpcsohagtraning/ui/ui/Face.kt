@@ -19,14 +19,14 @@ class Face : Fragment(R.layout.fragment_face) {
 
         val activity = activity as MainActivity
         activity.supportActionBar?.hide()
-        binding.intro.text="Through This Application, Provided By ICPC Sohag Community." +"\n"+
-                "You Can Enjoy Learning The Basics Of Programming And Using It To Solve Problems. " +"\n"+
-                "Here You Can Find :" +"\n"+
-                "1-Matrial Of NewComers." +"\n"+"\n"+
-                "2-Matrial Of Phase1." +"\n"+"\n"+
-                "3-Matrial Of Phase2." +"\n"+"\n"+
-                "And Other Things You Will Like." +"\n"+"\n"+
-                "**We Wish You Good Use**"
+        binding.intro.text="Through this application, provided by ICPC Sohag Community." +"\n"+
+                "you can enjoy learning the basics of programming and using it to solve problems. " +"\n"+
+                "here you can find :" +"\n"+
+                "1-Matrial of NewComers." +"\n"+"\n"+
+                "2-Matrial of Phase1." +"\n"+"\n"+
+                "3-Matrial of Phase2." +"\n"+"\n"+
+                "And other things you will like." +"\n"+"\n"+
+                "**We wish you good use**"
         binding.welcome.text="Welcome My Friend In Our Community 😊"
     }
 }

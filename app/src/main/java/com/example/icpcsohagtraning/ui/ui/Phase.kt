@@ -25,7 +25,7 @@ class Phase : Fragment(R.layout.fragment_phase) {
 
         val activity = activity as MainActivity
         activity.supportActionBar?.hide()
-
+//for example
         val arr=ArrayList<WeekModel>()
         arr.add(WeekModel("first lesson"))
         arr.add(WeekModel("second lesson"))

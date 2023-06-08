@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/navigation"
-    app:startDestination="@id/phase">
+    app:startDestination="@id/content2">
 
     <fragment
         android:id="@+id/face"
@@ -25,4 +25,9 @@
         android:name="com.example.icpcsohagtraning.ui.ui.Phase"
         android:label="fragment_phase"
         tools:layout="@layout/fragment_phase" />
+    <fragment
+        android:id="@+id/answer"
+        android:name="com.example.icpcsohagtraning.ui.ui.Answer"
+        android:label="fragment_answer"
+        tools:layout="@layout/fragment_answer" />
 </navigation>
