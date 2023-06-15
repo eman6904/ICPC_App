@@ -5,21 +5,35 @@
       <map>
         <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2165" />
         <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/drawable/bar_back.xml" value="0.2165" />
+        <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/drawable/blue_bar.xml" value="0.134" />
         <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/drawable/border_text.xml" value="0.1835" />
+        <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/drawable/brush_blue.xml" value="0.1275" />
+        <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/drawable/brush_red.xml" value="0.1275" />
         <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/drawable/circle.xml" value="0.1835" />
         <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/drawable/circular.xml" value="0.119" />
+        <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/drawable/circuler_textview.xml" value="0.1" />
         <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/drawable/custom_shape.xml" value="0.1835" />
+        <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/drawable/ic_baseline_brush_24.xml" value="0.1455" />
+        <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/drawable/ic_darkmode.xml" value="0.175" />
         <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2165" />
+        <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/drawable/ic_zoom_in.xml" value="0.218" />
+        <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/drawable/ic_zoom_out.xml" value="0.1105" />
+        <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/drawable/red_bar.xml" value="0.134" />
         <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/drawable/rounded_textview.xml" value="0.1835" />
+        <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/drawable/text_blue.xml" value="0.2115" />
+        <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/drawable/text_red.xml" value="0.2115" />
+        <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/drawable/text_yellow.xml" value="0.2115" />
         <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/drawable/textview_shape.xml" value="0.1835" />
         <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/layout/activity_main.xml" value="0.23854166666666668" />
-        <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/layout/fragment_answer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/layout/fragment_answer.xml" value="0.2029520295202952" />
         <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/layout/fragment_content.xml" value="0.23854166666666668" />
-        <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/layout/fragment_face.xml" value="0.10916919959473151" />
-        <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/layout/fragment_home.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/layout/fragment_face.xml" value="0.1" />
+        <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/layout/fragment_home.xml" value="0.264" />
         <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/layout/fragment_phase.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/layout/model.xml" value="0.23809523809523808" />
         <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/layout/phase_model.xml" value="0.23854166666666668" />
         <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/layout/week_model.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/CS/AndroidStudioProjects/ICPCSohagTraning/app/src/main/res/menu/menuu.xml" value="0.1" />
       </map>
     </option>
   </component>

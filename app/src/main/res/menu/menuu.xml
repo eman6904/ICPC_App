@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/item2"
+        android:title="Main Color">
+        <menu>
+            <group android:checkableBehavior="none">
+                <item
+                    android:id="@+id/blue"
+                    android:icon="@drawable/brush_blue"
+                    android:title="Light blue" />
+
+                <item
+                    android:id="@+id/yellow"
+                    android:icon="@drawable/ic_baseline_brush_24"
+                    android:title="Yellow" />
+                <item
+                    android:id="@+id/red"
+                    android:icon="@drawable/brush_red"
+                    android:title="Red" />
+            </group>
+
+        </menu>
+    </item>
+    <item
+        android:id="@+id/item3"
+        android:title="Mode"
+        app:showAsAction="never">
+
+        <menu>
+            <group android:checkableBehavior="none">
+                <item
+                    android:id="@+id/l_mode"
+                    android:icon="@drawable/ic_nightmode"
+                    android:title="Light Mode" />
+
+                <item
+                    android:id="@+id/d_mode"
+                    android:icon="@drawable/ic_darkmode"
+                    android:title="Dark Mode" />
+            </group>
+        </menu>
+
+    </item>
+
+</menu>

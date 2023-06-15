@@ -1,5 +1,6 @@
 package com.example.icpcsohagtraning.ui.model
 
+import android.content.ClipData
 import android.graphics.Color
 import android.view.LayoutInflater
 import android.view.ViewGroup

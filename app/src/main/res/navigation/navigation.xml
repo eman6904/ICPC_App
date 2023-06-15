@@ -3,23 +3,38 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/navigation"
-    app:startDestination="@id/content2">
+    app:startDestination="@id/face">
 
     <fragment
         android:id="@+id/face"
         android:name="com.example.icpcsohagtraning.ui.ui.Face"
         android:label="fragment_face"
-        tools:layout="@layout/fragment_face" />
+        tools:layout="@layout/fragment_face" >
+        <action
+            android:id="@+id/action_face_to_home2"
+            app:destination="@id/home2" />
+    </fragment>
     <fragment
         android:id="@+id/home2"
         android:name="com.example.icpcsohagtraning.ui.ui.Home"
         android:label="fragment_home"
-        tools:layout="@layout/fragment_home" />
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_home2_to_answer"
+            app:destination="@id/answer" />
+        <action
+            android:id="@+id/action_home2_to_content2"
+            app:destination="@id/content2" />
+    </fragment>
     <fragment
         android:id="@+id/content2"
         android:name="com.example.icpcsohagtraning.ui.ui.Content"
         android:label="fragment_content"
-        tools:layout="@layout/fragment_content" />
+        tools:layout="@layout/fragment_content" >
+        <action
+            android:id="@+id/action_content2_to_phase"
+            app:destination="@id/phase" />
+    </fragment>
     <fragment
         android:id="@+id/phase"
         android:name="com.example.icpcsohagtraning.ui.ui.Phase"

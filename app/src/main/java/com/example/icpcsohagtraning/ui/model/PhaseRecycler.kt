@@ -1,17 +1,21 @@
 package com.example.icpcsohagtraning.ui.model
 
+import android.content.ClipData
+import android.content.ClipboardManager
 import android.content.Context
 import android.view.LayoutInflater
 import android.view.ViewGroup
+import android.widget.Toast
 import androidx.core.content.ContentProviderCompat.requireContext
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.icpcsohagtraning.databinding.PhaseModelBinding
+import com.example.icpcsohagtraning.ui.ui.MainActivity
 
 class PhaseRecycler(private val list1: ArrayList<PhaseModel>,val context: Context) :
     RecyclerView.Adapter<PhaseRecycler.ViewHolder>() {
     inner class ViewHolder(val binding: PhaseModelBinding) : RecyclerView.ViewHolder(binding.root) {
-        var text = binding.text
+        var text = binding.week
         var recycler=binding.recycler2
 
     }

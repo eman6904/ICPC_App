@@ -8,15 +8,15 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <TextView
-        android:id="@+id/text"
+        android:id="@+id/week"
         android:layout_width="@dimen/_90sdp"
         android:layout_height="@dimen/_30sdp"
-        android:textSize="@dimen/_13sdp"
+        android:textSize="@dimen/_20sdp"
         android:textStyle="bold"
-        android:textColor="#556856"
-        android:layout_marginTop="@dimen/_15sdp"
-        android:background="@drawable/custom_shape"
         android:gravity="center"
+        android:layout_marginLeft="@dimen/_10sdp"
+        android:textColor="@color/white"
+        android:background="@drawable/circuler_textview"
         android:text="Week1"
        />
 
